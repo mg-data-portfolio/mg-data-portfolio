@@ -35,5 +35,5 @@ I’m eager to connect with teams across Ireland seeking motivated entry-level o
 
 <br><br>
 ## Let's Connect!
-📧 mg.gannon001@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/m-gannon) | 🖥️ Tableau Public (COMING SOON) |
+📧 [Email Me](mg.gannon001@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/m-gannon) | 🖥️ Tableau Public (COMING SOON) |
  
