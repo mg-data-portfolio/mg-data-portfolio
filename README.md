@@ -32,5 +32,5 @@ Transitioning from Fexco PM to Data Analytics. Actively completing self-led lear
 
 <br><br>
 ## Let's Connect!
-📧 mg.gannon001@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/m-gannon) | 🖥️ Tableau Public (COMING SOON) |
+📧 mg.gannon001@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/m-gannon) | 🖥️ Tableau Public (COMING SOON) |
  
