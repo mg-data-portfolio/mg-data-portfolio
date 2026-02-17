@@ -1,8 +1,11 @@
 # Michael Gannon - Future Data Analyst
 *Cork Ireland | Project Manager transitioning to Data Analytics*
-<br><br>
-I am a project manager with a passion for leveraging data for business insights. Currently, I'm on an upskilling journey via DataCamp and Coursera with the goal of pivoting from project manager to Data Analyst / BI Analyst.
-<br><br>
+
+I'm a project manager with a passion for using data to uncover business insights and guide smarter decisions. After several rewarding years leading projects at Fexco, I’m now focusing on expanding my skill set to pursue a career in data analytics and business intelligence.
+
+I’m currently upskilling through DataCamp and Coursera, building my technical foundation in SQL, Tableau, and data visualization. This repository documents my learning journey and showcases the portfolio projects I’m developing along the way.
+
+My goal for 2026 is to secure an entry-level Data Analyst or BI Analyst role in Ireland—bringing together my project management experience and growing data expertise to deliver meaningful insights.
 
 ## Aspirations & Upskilling Journey
 Transitioning from Fexco PM to Data Analytics. Actively completing self-led learning SQL and Tableau; using this repo to build portfolio projects that showcase my technical data skills. Eager for entry/junior DA roles in Ireland. Stay tuned!
