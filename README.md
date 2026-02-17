@@ -8,8 +8,11 @@ I’m currently upskilling through DataCamp and Coursera, building my technical 
 My goal for 2026 is to secure an entry-level Data Analyst or BI Analyst role in Ireland—bringing together my project management experience and growing data expertise to deliver meaningful insights.
 
 ## Aspirations & Upskilling Journey
-Transitioning from Fexco PM to Data Analytics. Actively completing self-led learning SQL and Tableau; using this repo to build portfolio projects that showcase my technical data skills. Eager for entry/junior DA roles in Ireland. Stay tuned!
-<br><br>
+After several years as a Project Manager at Fexco, I’m channeling my curiosity for data-driven decision-making into a transition toward Data Analytics. I’m actively completing self-paced learning in SQL, Tableau, and Snowflake, focusing on the tools and techniques that power effective business intelligence.
+
+This repository will feature portfolio projects that demonstrate how I apply analytical thinking, visualization, and storytelling to real-world datasets. I’m especially interested in uncovering insights that support strategic planning and operational improvement.
+
+I’m eager to connect with teams across Ireland seeking motivated entry-level or junior Data Analysts who bring both business awareness and analytical rigor. Stay tuned for project updates as my learning progresses!
 
 ## My learning to date
 
