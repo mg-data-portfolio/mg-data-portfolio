@@ -44,5 +44,5 @@ I’m eager to connect with teams across Ireland seeking motivated entry-level o
 | Data Analyst in Tableau | DataCamp | 16 Jan 2026 | Tableau · Data Visualization | [Data Analyst in Tableau](https://www.datacamp.com/completed/statement-of-accomplishment/track/707a3d228ee1a530ba32acae538a204fc008c549) |
 
 ## Let's Connect!
-📧 [Email Me](mg.gannon001@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/m-gannon) | 🖥️ Tableau Public (COMING SOON) |
+📧 [Email Me](mailto:mg.gannon001@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/m-gannon) | 🖥️ Tableau Public (COMING SOON) |
  
