@@ -17,6 +17,7 @@ My goal for 2026 is to secure an entry-level Data Analyst or BI Analyst role in 
 ## Projects
 Check back soon for portfolio projects featuring real-world SQL queries, Tableau dashboards, and data analysis case studies.
 
+
 ## Aspirations & Upskilling Journey
 After several years as a Project Manager at Fexco, I’m channeling my curiosity for data-driven decision-making into a transition toward Data Analytics. I’m actively completing self-paced learning in SQL, Tableau, and Snowflake, focusing on the tools and techniques that power effective business intelligence.
 
@@ -33,7 +34,6 @@ I’m eager to connect with teams across Ireland seeking motivated entry-level o
 | Data Analyst Associate | DataCamp | 7 Oct 2025 | Data Analysis · Statistical Data Analysis · Data Visualization · Data Analytics · Data Management · Communication · SQL · Exploratory Data Analysis | [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0012270231391) |
 | AI Fundamentals | DataCamp | 17 Oct 2025 | Artificial Intelligence (AI) · ChatGPT · AI Literacy |  [AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0025235038301) |
 
-<br><br>
 ### Courses Completed
 
 | Title | Issuer | Completion Date | Skills | Link |
@@ -43,7 +43,6 @@ I’m eager to connect with teams across Ireland seeking motivated entry-level o
 | Tableau Fundamentals | DataCamp | 7 Jan 2026 | Tableau · Data Visualization | [Tableau Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/97a6fa9969307de66266ac62282080e1acb3c8ef) |
 | Data Analyst in Tableau | DataCamp | 16 Jan 2026 | Tableau · Data Visualization | [Data Analyst in Tableau](https://www.datacamp.com/completed/statement-of-accomplishment/track/707a3d228ee1a530ba32acae538a204fc008c549) |
 
-<br><br>
 ## Let's Connect!
 📧 [Email Me](mg.gannon001@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/m-gannon) | 🖥️ Tableau Public (COMING SOON) |
  
